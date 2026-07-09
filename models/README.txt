@@ -1,1 +1,0 @@
-Place the trained model here. If it exceeds GitHub limits, upload it to Google Drive and add the link in README.
